@@ -1,3 +1,6 @@
+ - 
+![ArtVisio.Logo](https://13jgna-ch3302.files.1drv.com/y3mjq1BSGdzf49qedPh8Wo-VQRazPuHrY29mJmTV3smI14OogMusT0_HwMMiNRbXXrSpYzDplyYedkl6KV41Vtn70Gn8UvhPcPDmZOBtYdhSzUPMPnuWVvGXQA_VZA5hQ-tQbD7INzWN9bkmVJKfb_WzigQoXkyGNf6bAWjVBr9AP0/logo.png?psid=1)
+
 # ART.VISIO 
 
 A unique application, which is still under development, which allows 
@@ -9,8 +12,6 @@ it was involved in the following advanced technologies:
  - Developing realms
  - Rendering algorithms
  - Artificial Intelligence
- - 
-![ArtVisio](https://13jgna-ch3302.files.1drv.com/y3mjq1BSGdzf49qedPh8Wo-VQRazPuHrY29mJmTV3smI14OogMusT0_HwMMiNRbXXrSpYzDplyYedkl6KV41Vtn70Gn8UvhPcPDmZOBtYdhSzUPMPnuWVvGXQA_VZA5hQ-tQbD7INzWN9bkmVJKfb_WzigQoXkyGNf6bAWjVBr9AP0/logo.png?psid=1)
 
 # ART.VISIO Concept
 

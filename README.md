@@ -1,4 +1,4 @@
-![ArtVisio Logo](https://onedrive.live.com/redir?resid=DED5FC43EA5CA80E!408&authkey=!ABHR_NRKxVetoLU&v=3&ithint=photo%2cpng)
+![ArtVisio](https://13jgna-ch3302.files.1drv.com/y3mjq1BSGdzf49qedPh8Wo-VQRazPuHrY29mJmTV3smI14OogMusT0_HwMMiNRbXXrSpYzDplyYedkl6KV41Vtn70Gn8UvhPcPDmZOBtYdhSzUPMPnuWVvGXQA_VZA5hQ-tQbD7INzWN9bkmVJKfb_WzigQoXkyGNf6bAWjVBr9AP0/logo.png?psid=1)
 
 # ArtVisio
 Why modern books, electronic and paper, contain so few pictures?
